@@ -1,1 +1,1 @@
-﻿worker: go run server.go
+﻿web: webapphr
