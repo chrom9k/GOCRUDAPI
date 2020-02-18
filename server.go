@@ -2,7 +2,8 @@
 
 import (
 	"net/http"
-	"server/routes"
+
+	"github.com/chrom9k/GOCRUDAPI/routes"
 )
 
 func main() {
